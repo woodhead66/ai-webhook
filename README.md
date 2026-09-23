@@ -164,5 +164,3 @@ kubectl get svc demo-web-service
 ```bash
 ./deploy.sh
 ```
-
-
